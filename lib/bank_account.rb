@@ -5,4 +5,8 @@ class BankAccount
     @name = name
   end 
   
+  def display_balance
+    
+    
+  
 end
